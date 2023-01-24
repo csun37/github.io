@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>JavaScript - CNIT-133 Homework 1</title>
+    <meta name="description" content="Homework 1 for JavaScript, jQuery, AJAX course at CCSF">
+    <style>
+      /* Add CSS styles */
+      body {
+        background-color: white;
+      }
+      h1 {
+        text-align: center;
+        font-size: 36px;
+        color: black;
+      }
+      a {
+        display: block;
+        margin: 10px auto;
+        padding: 10px 20px;
+        background-color: rgb(110, 50, 240);
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        font-size: 20px;
+        width: 245px;
+        border: 2px solid black;
+      }
+      a:hover{
+        background-color: rgb(220, 212, 212);
+        color: black;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Homework</h1>
+    <a href="hw2.html">Homework 2</a>
+    <a href="hw3.html">Homework 3</a>
+    <a href="hw4.html">Homework 4</a>
+    <a href="hw5.html">Homework 5</a>
+    <a href="hw6.html">Homework 6</a>
+    <a href="hw7.html">Homework 7</a>
+    <a href="hw8.html">Homework 8</a>
+  </body>
+</html>
